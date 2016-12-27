@@ -23,7 +23,6 @@ class m161226_200048_enhance_user_table extends Migration
     }
 
     /*
-    // Use safeUp/safeDown to run migration code within a transaction
     public function safeUp()
     {
     }
